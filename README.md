@@ -47,11 +47,11 @@ chmod +x aws_resource_tracker.sh
 
 ## AWS EC2 Instance Used For Testing
 
-![EC2 Instance](screenshots/ec2-instance.png)
+![EC2 Instance](https://github.com/abhaysgitt/aws-resource-tracker/blob/main/screenshots/ec2-instance.png)
 
 ## Script Output
 
-![Script Output](screenshots/script-output.png)
+![Script Output](https://github.com/abhaysgitt/aws-resource-tracker/blob/main/screenshots/script-output.png)
 
 ## Skills Demonstrated
 
