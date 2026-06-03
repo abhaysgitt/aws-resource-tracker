@@ -1,0 +1,13 @@
+AWS REPORT
+Generated: 2026-06-03
+
+Region: us-east-1
+
+S3 Buckets: 0
+EC2 Instances: 1
+Lambda Functions: 0
+IAM Users: 1
+EBS Volumes: 1
+VPCs: 1
+Security Groups: 2
+Elastic IPs: 0
